@@ -1,0 +1,7 @@
+.profile {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+	background: linear-gradient(147deg,#3EB489,#9fe2bf, #20b2aa);
+	color: white;
+}
